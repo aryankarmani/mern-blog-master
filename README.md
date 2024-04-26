@@ -1,2 +1,2 @@
-﻿# mern-blog-master
+ minimalist blog web app created using MERN (MongoDB, Express.js, React, Node.js) stack, designed for multiple users. It offers an easy-to-use interface for authors to write and publish posts while ensuring a straightforward browsing experience for readers. With its simple design, users can switch between accounts effortlessly, collaborate with others, and enjoy a clutter-free reading experience. Whether you're writing or reading, this MERN-based blog web app keeps things simple and user-friendly.﻿# mern-blog-master
 
