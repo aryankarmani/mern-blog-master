@@ -1,0 +1,12 @@
+.logo img{
+    height: 4rem;
+}
+
+.logo span{
+    margin-left: 1rem;
+
+} 
+
+nav Link{
+    border: 2px solid black;
+}
